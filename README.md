@@ -5,5 +5,5 @@
 Technology Used: React Js
 
 <img width="948" alt="image" src="https://github.com/diksh04/Nqueens-Visualizer/assets/84238934/85bbafb4-a1a7-4cde-9a4d-dab8830db379">
-
+<br><br>
 <img width="943" alt="image" src="https://github.com/diksh04/Nqueens-Visualizer/assets/84238934/04a453fc-a724-4183-a9d2-a6d89df71267">
